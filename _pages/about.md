@@ -47,3 +47,25 @@ _2019 IEEE Global Conference on Signal and Information Processing (GlobalSIP)_
 **Xinyue Hu**, Lu Cai, Qi Wang  
 _SEG Technical Program Expanded Abstracts 2016_
 
+---
+
+Teaching Assistant
+======
+* CSCI 1933 Intro to Algorithms & Data Structures, Fall, 2020
+
+---
+
+Work Experience
+======
+* Research Intern in AT&T Research Lab, Summer 2021
+* Data Scientist PhD Intern in Cisco Systems Inc., Summer 2019
+* System Engineer Intern in Symantec Corp., Spring 2015
+
+---
+
+Honors and Awards
+======
+* Doctoral Dissertation Fellowship from UMN, 2024
+* Travel Grant from Grace Hopper Celebration, 2019
+* Travel Grant from CRA-W, 2019
+* ADC Fellowship from UMN, 2017
