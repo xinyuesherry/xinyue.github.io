@@ -15,5 +15,8 @@ I am interested in machine learning, deep learning, and their applications to co
 
 Publications
 ======
-<br/><img src='/images/5G-ca.png'>
+redirect_from: 
+  - /publications/
+  - /publications.md
+
 
