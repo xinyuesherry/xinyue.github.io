@@ -11,6 +11,8 @@ I am a final year Ph.D. candidate in [Computer Science & Engineering](https://cs
 
 I am interested in machine learning, deep learning, and their applications to computer communication and networks. I aim to design domain-knowledge-guided machine learning to intelligently model and enhance networked systems, such as smart grids, content delivery networks, and 5G networks.
 
+<span style="color: red;">I am actively looking for a full-time position. Feel free to let me know if you have any openings.</span>
+
 ---
 
 Publications
