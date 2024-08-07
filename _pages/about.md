@@ -15,8 +15,9 @@ I am interested in machine learning, deep learning, and their applications to co
 
 Publications
 ======
-redirect_from: 
-  - /publications/
-  - /publications.md
+[Dissecting Carrier Aggregation in 5G Networks:Measurement, QoE Implications and Prediction](https://dl.acm.org/doi/pdf/10.1145/3651890.3672250)  
+Wei Ye, **Xinyue Hu**, Steven Sleder, Anlan Zhang, Udhaya Kumar Dayalan, Ahmad Hassan, Rostand AK Fezeu, Akshay Jajoo, Myungjin Lee, Eman Ramadan, Feng Qian, Zhi-Li Zhang  
+_Proceedings of the ACM SIGCOMM 2024 Conference_, 2024
+
 
 
